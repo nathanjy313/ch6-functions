@@ -4,7 +4,6 @@
 # returns a value 3 greater than the input
 add_three <- function(a) {
   total_value <- a + 3
-  return(total_value)
 }
 
 # Create a variable `ten` that is the result of passing 7 to your `add_three` 
